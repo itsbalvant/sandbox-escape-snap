@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/MetaMask/snaps-skunkworks/master/schemas/snap.manifest.json",
+  "version": "0.1.0",
+  "proposedName": "SandboxEscapeSnap",
+  "description": "PoC SES/LavaMoat escape via Function constructor",
+  "initialPermissions": {},
+  "source": {
+    "shasum": "",
+    "location": {
+      "url": "https://raw.githack.com/itsbalvant/sandbox-escape-snap/main/index.js"
+    }
+  }
+}
